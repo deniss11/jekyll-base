@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Не стесняйтесь использовать обаяние!
-date: {}
+date:   2015-02-12 13:46:40
 categories: jekyll update
 published: true
 ---
